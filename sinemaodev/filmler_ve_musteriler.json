@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "The Shawshank Redemption",
+    "tur": "Tür 1",
+    "sure": 120,
+    "salonlar": [
+      1
+    ],
+    "kayitli_musteriler": []
+  },
+  {
+    "id": 2,
+    "name": "The Godfather",
+    "tur": "Tür 2",
+    "sure": 120,
+    "salonlar": [
+      2
+    ],
+    "kayitli_musteriler": []
+  },
+  {
+    "id": 3,
+    "name": "The Dark Knight",
+    "tur": "Tür 3",
+    "sure": 120,
+    "salonlar": [
+      3
+    ],
+    "kayitli_musteriler": [
+      {
+        "ad": "emrah",
+        "soyad": "sarıçiçek",
+        "telefon": "12345"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Pulp Fiction",
+    "tur": "Tür 4",
+    "sure": 120,
+    "salonlar": [
+      4
+    ],
+    "kayitli_musteriler": []
+  },
+  {
+    "id": 5,
+    "name": "The Lord of the Rings: The Return of the King",
+    "tur": "Tür 5",
+    "sure": 120,
+    "salonlar": [
+      5
+    ],
+    "kayitli_musteriler": []
+  },
+  {
+    "id": 6,
+    "name": "Forrest Gump",
+    "tur": "Tür 6",
+    "sure": 120,
+    "salonlar": [
+      6
+    ],
+    "kayitli_musteriler": []
+  },
+  {
+    "id": 7,
+    "name": "Inception",
+    "tur": "Tür 7",
+    "sure": 120,
+    "salonlar": [
+      7
+    ],
+    "kayitli_musteriler": []
+  },
+  {
+    "id": 8,
+    "name": "The Matrix",
+    "tur": "Tür 8",
+    "sure": 120,
+    "salonlar": [
+      8
+    ],
+    "kayitli_musteriler": []
+  },
+  {
+    "id": 9,
+    "name": "Gladiator",
+    "tur": "Tür 9",
+    "sure": 120,
+    "salonlar": [
+      9
+    ],
+    "kayitli_musteriler": []
+  },
+  {
+    "id": 10,
+    "name": "Fight Club",
+    "tur": "Tür 10",
+    "sure": 120,
+    "salonlar": [
+      10
+    ],
+    "kayitli_musteriler": []
+  }
+]
